@@ -1,5 +1,7 @@
+#To jest versja 1 pójścia do sklepu 
 print("Lista zakupów")
 #Zadanie 1
+#najpierw tworzę sobie słownik ze skelpami i produktami
 lista_dict = {"piekarnia":["chleb", "bułki", "pączek"], "warzywniak":["marchew", "seler", "rukola"]}
 rzeczy = lista_dict.values()
 for sklep in lista_dict:
